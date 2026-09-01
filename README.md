@@ -1,4 +1,4 @@
-# Ex.06 Restaurant Website
+# Ex.05 Restaurant Website
 # Date:
 # AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
